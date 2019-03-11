@@ -25,3 +25,5 @@ def isPalindrome(s):
 	return isPal(toChars(s))
 
 print(isPalindrome("abeeba"))
+
+print(isPalindrome("Able was I, ere I saw Elba"))
