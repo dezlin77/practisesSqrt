@@ -1,5 +1,5 @@
 '''
-Find all prime numbers less than n
+Find all prime numbers less than n 
 '''
 
 def sieve(end):
